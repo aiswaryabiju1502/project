@@ -1,4 +1,5 @@
 EXPENSE TRACKER – Python Mini Project
+
 The Expense Tracker is a Python-based application designed to help users efficiently manage their daily expenses. 
 The main objective of this project is to allow users to record, categorize, and analyze their spending, making it easier to track financial habits and improve money management.
 This is a well-structured Expense Tracker application using Python and Tkinter.
